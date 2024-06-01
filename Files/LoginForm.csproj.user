@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietMeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietPlan2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EquipmentGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GymChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MachineAssign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequestTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrainerChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewMeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="createDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateWO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietModifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GymMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GymRegistrationRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GymReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HireTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Membership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Member_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifyDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyDietPlans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyWorkouts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewMemberRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pastReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reschedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrainerClientView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrainerFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrainerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrainerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainerselect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewWO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Workout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkoutCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkoutEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WO_Exercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
